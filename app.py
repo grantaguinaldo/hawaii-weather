@@ -85,4 +85,4 @@ def min_max_temperature(start, end='2017-08-23'):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
