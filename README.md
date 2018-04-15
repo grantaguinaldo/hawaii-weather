@@ -14,11 +14,11 @@ This project required the population of a SQL database from a CSV file, and the 
 
 Once the API route were created, SQL queries were written to get the data needed to prepare the summary charts that are shown below.
 
-![](./Submission/images/image1.png)
+![](./images/image1.png)
 
-![](./Submission/images/image2.png)
+![](./images/image2.png)
 
-![](./Submission/images/image3.png)
+![](./images/image3.png)
 
 
 ### You can check out the live API by clicking here.
